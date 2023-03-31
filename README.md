@@ -1,1 +1,1 @@
-<h1> multi_factor_capm <h1>
+<h2> multi_factor_capm <h2>
